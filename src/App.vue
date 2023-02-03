@@ -1,13 +1,16 @@
 <template>
   <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <test-comp />
 </template>
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
+import TestComp from "@/components/TestComp";
 
 export default {
   name: 'App',
   components: {
+    TestComp,
     HelloWorld
   }
 }
