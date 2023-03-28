@@ -1,14 +1,5 @@
 <template>
   <home-page/>
-  <home-page/>
-  <home-page/>
-  <home-page/>
-  <home-page/>
-  <home-page/>
-  <home-page/>
-  <home-page/>
-  <home-page/>
-  <home-page/>
 </template>
 
 <script>
